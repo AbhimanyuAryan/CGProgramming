@@ -1,0 +1,13 @@
+How to program graphics card with Shaders
+
+Pre-requisites:
+* C++ Programming
+* Math Knowledge
+* Basic Trignometry, 3D Vector, Matrix Math
+* Graphics card that should support OpenGL 3.2 or higher
+* Windows OS
+
+Old way called immediate mode using fixed function pipeline. It is easier to use but much of functionality was hidden
+from programmers. ARB Core & Compatibility....Forked OPENGL project. For new applications ARB insists Core
+functionality. Latest version is 4.5.....3.2 didn't change many things to Draw things. Features have been added since
+3.3. We stick to 3.3. Also if you have old computer 
